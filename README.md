@@ -1,6 +1,6 @@
 # Welcome
 
-I am Serena, an undergraduate Computer Engineer interested in Machine Learning and Software Development. I am passionate about crafting solutions that bridge technology and real-world challenges.
+I am Serena, an undergraduate Computer Engineer interested in Machine Learning and Software Development. My drive and motivation: crafting solutions that bridge technology and real-world challenges.
  ## About Me
  
   - Current Focus: Self-studying machine learning concepts and implementing projects to reinforce theoretical knowledge and build a portfolio
