@@ -9,16 +9,14 @@ I am Serena, an undergraduate Computer Engineer interested in Machine Learning a
 ## Skills & Technologies
 
   - Programming Languages: Python, Java, Assembly, C++(basic)
-  - Data Manipulation & Analysis: NumPy, Pandas
-  - Data Visualization: Matplotlib, Seaborn
-  - Machine Learning Frameworks: scikit-learn, xgboost, keras, Tensorflow
+  - Data Science libraries: NumPy, Pandas, Matplotlib, Seaborn
+  - Machine Learning Frameworks: scikit-learn, xgboost, keras, Tensorflow, Pytorch
+  - Web: HTML, CSS, JavaScript, PHP
+  - Databases: MySQL, Qdrant(vector database)
+  - Deployment: Flask, FastAPI, Docker
+    
   - Mathematics: Strong foundation in Linear Algebra, Advanced Calculus, Ordinary and Partial differential equations (ODEs, PDEs), Vector Analysis, Probability & Statistics, Logic Design, and Boolean Algebra
-  - Tools: Jupyter Notebooks, Visual Studio Code, PyCharm, Apache NetBeans
-  - Deployment: Streamlit, Flask , Docker
-  - Databases: MySQL
-  - Web : HTML, CSS
-  - Version Control: Git, GitHub
-  - Additional Skills: Analog Electronics, Analog and Digital Communications Systems, Microwaves, Microprocessors and Microcontrollers, Computer Networks, Routing and Switching
+  - Additional Skills: Analog Electronics, Analog and Digital Communications Systems, Microwaves, Microprocessors and Microcontrollers, Computer Networks, Embedded Systems, Routing and Switching
 
 ## Contact
 
