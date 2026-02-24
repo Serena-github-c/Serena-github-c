@@ -2,9 +2,9 @@
 
 I am Serena, an undergraduate Computer Engineer interested in Machine Learning and Software Development. My drive and motivation: crafting solutions that bridge technology and real-world challenges.
  ## About Me
- 
-  - Current Focus: Self-studying machine learning concepts and implementing projects to reinforce theoretical knowledge and build a portfolio
-  - Goals: Transition to a full-time machine learning engineer role.
+
+  - Current Focus: Applied ML research on satellite imagery for renewable energy mapping at GeoAI, alongside my final-year CCE studies.
+  - Goals: Deepen research in machine learning and computer vision
 
 ## Skills & Technologies
 - **Languages**  
